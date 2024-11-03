@@ -14,7 +14,7 @@ oY => y-corner offset
 oW => original width
 oH => original height
 r => 'y' if sprite is rotated-->
-<TextureAtlas imagePath="texture.png" width="256" height="1278" scale="1" format="RGBA8888">
+<TextureAtlas imagePath="SpookyKids.png" width="256" height="1278" scale="1" format="RGBA8888">
   <sprite n="Idle0001" x="0" y="0" w="256" h="256" pX="0.5" pY="0.5"/>
   <sprite n="SingUP0001" x="0" y="256" w="256" h="256" pX="0.5" pY="0.5"/>
   <sprite n="SingRIGHT0001.png" x="0" y="512" w="256" h="249" pX="0.5" pY="0.5" oX="0" oY="7" oW="256" oH="256" r="y"/>
